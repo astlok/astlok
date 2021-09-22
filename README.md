@@ -12,7 +12,7 @@
 - МГТУ им. Н.Э. Баумана 2016-2022, Факультет Энергомашиностроени, кафедра Э4 "Специальные системы жизнеобеспечения"
 
 ### Стек технологий:
-| Golang, PostgreSQL, Git, Docker, SQL, Go, REST, Python, HTTP, TCP/IP, Nginx, Linux, Prometeus, Graphana           |
+| Golang, PostgreSQL, Git, Docker, SQL, Go, REST, Python, HTTP, TCP/IP, Nginx, Linux, Prometeus, Grafana           |
 |:-------------:|
 
 
